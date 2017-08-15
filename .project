@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>ProjectConnectFour</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/connectPack/circlebigger.png</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Desktop/conect4/circlebigger.png</locationURI>
+		</link>
+		<link>
+			<name>src/connectPack/circleone.png</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Desktop/conect4/circleone.png</locationURI>
+		</link>
+		<link>
+			<name>src/connectPack/circlethree.png</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Desktop/conect4/circlethree.png</locationURI>
+		</link>
+		<link>
+			<name>src/connectPack/circletwo.png</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Desktop/conect4/circletwo.png</locationURI>
+		</link>
+		<link>
+			<name>src/connectPack/image1.gif</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Desktop/conect4/image1.gif</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>
