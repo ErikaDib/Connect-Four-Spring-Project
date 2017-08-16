@@ -19,8 +19,7 @@ import javax.swing.ImageIcon;
 import javax.swing.JButton;
 
 public class ActualGame implements ActionListener  {
-	//comment hello
-//introductiongui
+	//another comment
 		private JFrame introFrame;
 		private JLabel introLabel;
 		private JLabel introLabel2;
