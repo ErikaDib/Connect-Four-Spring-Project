@@ -20,8 +20,4 @@ Use image icons on the labels to display a marker when a slot is filled by a pla
 Create a ConnectX game so that the user can play connect4, or connect5, .. or connectX where they choose how many they would like to be in a row to be considered a “win” (15pts extra) - must check all diagonals
 
 <h3>RESULT</h3>
-![alt tag]()
-<hr/>
-![alt tag](https://user-images.githubusercontent.com/25781788/29368070-b1abebb6-826c-11e7-84ea-b07c34c7f0dd.png)
-<hr/>
-![alt tag](https://user-images.githubusercontent.com/25781788/29368095-c4af109e-826c-11e7-9e2f-4436cab737a3.png)
+
