@@ -1,4 +1,4 @@
-!# Connect-Four-Spring-Project
+!!# Connect-Four-Spring-Project
 <h2>Final Java Project for Programming Class</h2>
 
 <h3>Connect 4 Game</h3>
@@ -21,3 +21,4 @@ Create a ConnectX game so that the user can play connect4, or connect5, .. or co
 
 <h3>RESULT</h3>
 
+![alt tag](https://user-images.githubusercontent.com/25781788/29368095-c4af109e-826c-11e7-9e2f-4436cab737a3.png)
